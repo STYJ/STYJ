@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm fascinated by the intersection of AI and games. If you want to do something cool, you can reach out to me on telegram at @itsmeSTYJ. 
+I'm fascinated by the intersection of AI and games. If you want to do something cool, you can reach out to me on telegram at [@itsmeSTYJ](https://t.me/itsmeSTYJ). 
 
 <!--
 - 🔭 I’m currently working on 
